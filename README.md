@@ -1,4 +1,4 @@
-# Python - creating a role in Runn
+# Python - creating a role or project in Runn
 
 This example repo exists only to show both a Python `int` and `float` being passed
 through to Runn's API where the API docs show that the incoming data must be of type
