@@ -52,7 +52,7 @@ def create_role(*, name: str, default_hour_cost: Union[float, int], standard_rat
 
 
 def render_role_form():
-  st.text("This demonstrates passing a simple float or in to an endpoint")
+  st.text("This demonstrates passing a simple float or integer to an endpoint")
   with st.form("role_form"):
     float_or_int = st.radio(
       "Do you want to use floats or ints for sending the cost to the API?",
