@@ -5,6 +5,8 @@ through to Runn's API where the API docs show that the incoming data must be of 
 `float`. It uses [Streamlit](https://streamlit.io/) to make the process of building
 the UI simple. 
 
+![Screeshot](assets/screen.png)
+
 ## Running
 
 ### Create and enter a virtual environment 
