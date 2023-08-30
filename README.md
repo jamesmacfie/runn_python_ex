@@ -14,7 +14,7 @@ You don't have to do this but I  it.
 ```
 python3 -m venv venv
 
-source source venv/bin/activate
+source venv/bin/activate
 ```
 
 ### Install deps
